@@ -1,0 +1,23 @@
+{
+  "name": "geekchange",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davi9091/geekchange.git"
+  },
+  "author": "Arkady Rubtsov and Roman Korolevsky",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davi9091/geekchange/issues"
+  },
+  "homepage": "https://github.com/davi9091/geekchange#readme",
+  "dependencies": {
+    "vue": "^2.6.10",
+    "vue-router": "^3.0.6"
+  }
+}
